@@ -1,10 +1,10 @@
-# dicee_flutter
+# Dice_Flutter_Project
 
-A new Flutter project.
+An app build in flutter to play dice along with changing random color on every click.
 
-## Getting Started
+## Opens a new window
 
-This project is a starting point for a Flutter application.
+This porject will open a new window to randomizing the colors with click. This will be help full to creat related apps.
 
 A few resources to get you started if this is your first Flutter project:
 
